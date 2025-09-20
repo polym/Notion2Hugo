@@ -21,7 +21,7 @@ const userConfig: UserConfig = {
             //     target_folder: 'path/relative/to/content/folder'
             // }
             {
-                database_id: '2742875f-4bfe-81ca-96dd-000bd1fae64d',
+                database_id: '2742875f4bfe81028a94f918ade28f0e',
                 target_folder: '.'
             }
         ],
