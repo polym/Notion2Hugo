@@ -4,14 +4,14 @@ const userConfig: UserConfig = {
     base_url: "https://notion-hugo.pages.dev",
     mount: {
         manual: false,
-        page_url: 'https://pcloud.notion.site/Notion-DoIt-04bcc51cfe4c49938229c35e4f0a6fb6',
+        page_url: 'https://polym.notion.site/Notion-Hugo-2742875f4bfe80719072ee4735836022',
         pages: [
             // {
             //     page_id: '<page_id>',
             //     target_folder: 'path/relative/to/content/folder'
             // }
             {
-                page_id: '45eb121158b9489480ec000fd25c812b',
+                page_id: '2742875f4bfe80719072ee4735836022',
                 target_folder: '.'
             }
         ],
@@ -21,7 +21,7 @@ const userConfig: UserConfig = {
             //     target_folder: 'path/relative/to/content/folder'
             // }
             {
-                database_id: 'b7b1816c05ec464391c8c111fa242985',
+                database_id: '2742875f-4bfe-81ca-96dd-000bd1fae64d',
                 target_folder: '.'
             }
         ],
