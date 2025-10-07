@@ -1,8 +1,8 @@
 ---
 title: "Markdown"
 date: "2025-09-20T08:18:00.000Z"
-lastmod: "2025-09-20T08:18:00.000Z"
-draft: false
+lastmod: "2025-10-06T06:18:00.000Z"
+draft: true
 featuredImage: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
 series: []
 authors: []
@@ -13,7 +13,7 @@ NOTION_METADATA:
   object: "page"
   id: "2742875f-4bfe-81ef-9cad-d39d1fb741c3"
   created_time: "2025-09-20T08:18:00.000Z"
-  last_edited_time: "2025-09-20T08:18:00.000Z"
+  last_edited_time: "2025-10-06T06:18:00.000Z"
   created_by:
     object: "user"
     id: "1b106df3-cc7b-493e-9afa-a6a7c977ec1b"
@@ -39,7 +39,7 @@ NOTION_METADATA:
     draft:
       id: "JiWU"
       type: "checkbox"
-      checkbox: false
+      checkbox: true
     authors:
       id: "bK%3B%5B"
       type: "people"
@@ -74,7 +74,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-09-20T08:18:00.000Z"
+      last_edited_time: "2025-10-06T06:18:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
