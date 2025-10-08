@@ -1,7 +1,7 @@
 ---
 title: "使用 Notion-Hugo 构建个人博客"
 date: "2025-09-22T14:21:00.000Z"
-lastmod: "2025-09-27T14:03:00.000Z"
+lastmod: "2025-10-08T01:21:00.000Z"
 draft: false
 featuredImage: "https://aha.qingy.ing/api?page_id=2762875f-4bfe-801e-bb8f-dba73c109834"
 series: []
@@ -13,7 +13,7 @@ NOTION_METADATA:
   object: "page"
   id: "2762875f-4bfe-801e-bb8f-dba73c109834"
   created_time: "2025-09-22T14:21:00.000Z"
-  last_edited_time: "2025-09-27T14:03:00.000Z"
+  last_edited_time: "2025-10-08T01:21:00.000Z"
   created_by:
     object: "user"
     id: "1b106df3-cc7b-493e-9afa-a6a7c977ec1b"
@@ -26,28 +26,28 @@ NOTION_METADATA:
       url: "https://prod-files-secure.s3.us-west-2.amazonaws.com/dc681554-1505-4cec-9\
         a8f-844b66d5dcc8/4e9385da-92e0-4c4a-9ba1-871eb116b2e5/DSCF9506_preview.\
         jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAY\
-        LOAD&X-Amz-Credential=ASIAZI2LB4664NZTDTZV%2F20250928%2Fus-west-2%2Fs3%\
-        2Faws4_request&X-Amz-Date=20250928T014232Z&X-Amz-Expires=3600&X-Amz-Sec\
-        urity-Token=IQoJb3JpZ2luX2VjECYaCXVzLXdlc3QtMiJHMEUCIBpny6U9%2BgnvPMvU1\
-        %2FAu5eUtpl%2Bf8ncY7g6gl3kuXySiAiEAqkk%2Bez7eDZQspS2Ru0RpdHDXPgLDD0W54x\
-        DLroZsvCEqiAQIr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDU\
-        iDBWbjVM0awd2Y7ThSSrcA0tmfeslYH0qKgyEWpyqj5MChe7iT%2By0hiXmJC0uVzDyfjd2\
-        63SaywXlsChYG1jMdhI3McWe8xFaho87aQecqS7PUFYTFtfF1ZVO5zZgYruuA0UPF1awSqe\
-        2uon0rnExViXM%2FWOOQtae64cx8NFCAwsQAP%2F8IBlKYmt%2BhPZ9mU2qbvVcSHQG2ovJ\
-        k2huH2B9OvK2KJgTVuZ2X8JWoWRYa0PJATrgLM%2BgriZNNymfk%2F%2BDyGyQ85X0Tm9a0\
-        2KWst25NINJws%2FAtV6H2pouFkTZDKsaFLxHpzuvJwdZk5h0rE8RKzfrXXQ8nYfB%2FVrP\
-        WA%2FG7uSYM99n9bZUqQu0fWplBp%2FwTkLh%2BPclhxd%2Ba%2B3HjQEpgIdkgPj9cyYF8\
-        A1%2BLqsT%2Fc1CkEBnkNqLmq9oLRSrGD7ti3g4nbzA3M8AVnCOobYqafnlcWoNlGLkmc5s\
-        %2FUmkqovd%2B7x%2BMIg1qGZ4qQz%2Fl36UZgi%2BPgUaqJ1af4CcKCpe69XEvfcmrMNcY\
-        ULxKApVlRhQWnir35MOwVgjx7H3mrJ9W%2F%2FHS%2FOItzEG97EnO%2FHA6rKqt0rOLdoq\
-        lVRf%2BQdHf7wY%2B4NYD93qdkHImtrM5BWVe0jQudzFTfh8yBV8lcAXF4lczc1EaTT6uGS\
-        wMJy%2F4cYGOqUBX5MYU7wgoENyEpAEefbXCP8cWhLbp2Y1%2Bz%2BFMd%2FkE2l%2BrFbW\
-        YoiyPLpb5qV95NFasN1qku2NYp7liQYNe30OUkLjXRdW5POPyfnB4tiQzyHeILly6JYXOEY\
-        ohg%2BvvmPhdWw9dFBUjP95maFZeantgQuOTPPQzRvUQaI6ICno5mDCJt%2BTYY%2Fg7oE7\
-        N82v8TAojU0zu0Jz00vjhN0gPq51pBXTsWXH&X-Amz-Signature=57fe57857c1dbdfc20\
-        18c9081fedeca355e981851687082f2d2084fffc44b051&X-Amz-SignedHeaders=host\
-        &x-amz-checksum-mode=ENABLED&x-id=GetObject"
-      expiry_time: "2025-09-28T02:42:32.308Z"
+        LOAD&X-Amz-Credential=ASIAZI2LB466S7KQFNK3%2F20251008%2Fus-west-2%2Fs3%\
+        2Faws4_request&X-Amz-Date=20251008T012636Z&X-Amz-Expires=3600&X-Amz-Sec\
+        urity-Token=IQoJb3JpZ2luX2VjEBkaCXVzLXdlc3QtMiJHMEUCIQDrVREcMhv1fCbdwhm\
+        xQtw3RnbF0HPjMNtgJrqcEeEnZQIgRIuztUvwdZAWI7TYNgQVaQD97iY0e%2BDjoS3Tb%2F\
+        %2FmZ0kqiAQIsv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDMQ\
+        d6yxdIU3St121KircA9KI750ZIdS4tc0APJqQmiU1z5NsjpXVKTvF5WA0cBi%2B2rhRURDz\
+        wu%2Fe0gmhBjHHRXjIgKULy67luvxkho6cY72uwtt1LLFwxUSLfhetOmpr3wJ1QLIyqwahZ\
+        ZXoutb80GkstUGTXADe7ujsxNZPEK1YxrX%2FCj4%2FCagJcTOC3%2BpD9Onr6xsVNeyeP1\
+        lDB936Er3m9zWCNeYNVI68GZ45apxcuVELU%2Fr65IIJpRw0WjN%2Fjdr9dM%2BLNKuFgM8\
+        Wdb%2F7now4BrFzScT5HQ17mArnq7Il4sDL%2Fk7Ht1QzY%2BskKKgYBakNVQljjiaSXDO5\
+        wkb7iBvz6SBJslk%2F5Q1ypWq5WVj%2F88mTSzyVdNogVLEtF7iEIjCPYYLnEp9P0cITnqk\
+        WyS5arnVsLRqfVVZY%2BJFQaEFXB5wQ%2FTpjUfL8L8lUE%2Fbon4GHgDhPVy5Br8xZGuIO\
+        N%2FJRqyRrFzm9UtFUoFEMOVQU7x4LP9ACrZaQZalNgs6FILsTuDKcgu9aatrH26gCG0UXr\
+        8wL2wtzhHbLjOWRqwYG%2FlHODEarXJU8KkEXuSkHsSWNg%2BxbDzacX2xAODUqQQVIlMPY\
+        QB72d2YYQF9GfuRyWXHIdKVdxxmsN1UqelgNSQKt6FfhIe%2BYhkFbMMbmlscGOqUBmr7yU\
+        xn7ch7ZE1r5nMhj1tjX5nDzTl6%2Fzov9OoXN1A8KfK8H1Upl95xDVvBHHJD4FnEG94xb26\
+        knoNhpw%2Fa5NuEduZOFPXd7PVLjC0eE0x%2FPkuy5ClTFUPVT7u9qqmXDxYOVTFXmgMJe1\
+        fVyoFmQKIU3tGMsaEyMbULQeQvOEbHIXr1omCoXDnDyt8pBJH%2BAXnDerg1DCdvVwGfXsA\
+        4dxht8Lvc1&X-Amz-Signature=35dd1efbffdd77abdbec03a282b752680fc5557d694e\
+        e806f9b6e71f51c2d57c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABL\
+        ED&x-id=GetObject"
+      expiry_time: "2025-10-08T02:26:36.064Z"
   icon: null
   parent:
     type: "database_id"
@@ -91,7 +91,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-09-27T14:03:00.000Z"
+      last_edited_time: "2025-10-08T01:21:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -147,7 +147,13 @@ MANAGED_BY_NOTION_HUGO: true
 ![](https://aha.qingy.ing/api?block_id=2762875f-4bfe-8008-96a6-face7aa4f515)
 
 
-## 3. 参考资料
+## 3. 遇到的问题
+
+
+[https://github.com/HEIGE-PCloud/Notion-Hugo](https://github.com/HEIGE-PCloud/Notion-Hugo) 
+
+
+## 4. 参考资料
 
 - 
 - [https://github.com/HEIGE-PCloud/Notion-Hugo](https://github.com/HEIGE-PCloud/Notion-Hugo)
