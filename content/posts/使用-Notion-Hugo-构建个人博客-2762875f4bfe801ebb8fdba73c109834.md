@@ -1,7 +1,7 @@
 ---
 title: "使用 Notion-Hugo 构建个人博客"
 date: "2025-09-22T14:21:00.000Z"
-lastmod: "2025-10-08T02:33:00.000Z"
+lastmod: "2025-10-18T23:13:00.000Z"
 draft: false
 featuredImage: "https://aha.qingy.ing/api?page_id=2762875f-4bfe-801e-bb8f-dba73c109834"
 series: []
@@ -16,7 +16,7 @@ NOTION_METADATA:
   object: "page"
   id: "2762875f-4bfe-801e-bb8f-dba73c109834"
   created_time: "2025-09-22T14:21:00.000Z"
-  last_edited_time: "2025-10-08T02:33:00.000Z"
+  last_edited_time: "2025-10-18T23:13:00.000Z"
   created_by:
     object: "user"
     id: "1b106df3-cc7b-493e-9afa-a6a7c977ec1b"
@@ -29,28 +29,28 @@ NOTION_METADATA:
       url: "https://prod-files-secure.s3.us-west-2.amazonaws.com/dc681554-1505-4cec-9\
         a8f-844b66d5dcc8/4e9385da-92e0-4c4a-9ba1-871eb116b2e5/DSCF9506_preview.\
         jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAY\
-        LOAD&X-Amz-Credential=ASIAZI2LB466WSAK2XLR%2F20251009%2Fus-west-2%2Fs3%\
-        2Faws4_request&X-Amz-Date=20251009T012659Z&X-Amz-Expires=3600&X-Amz-Sec\
-        urity-Token=IQoJb3JpZ2luX2VjEDAaCXVzLXdlc3QtMiJGMEQCIDAfW3rfjHeZW7B%2FK\
-        AxES1UuIT4EDNj8tgns2O5SjKtTAiAAwEgY%2FrBFEevruE45m4XhmfPdeLhzKhMN%2BzXV\
-        UFKeDiqIBAjJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMeSt\
-        MvnOWFg43ZdbeKtwDRiJkRweB1pbsilS8TOAvGOmOTrr9sBqLUGjXZqZUPb2O4RuDpa4yYf\
-        C83hvtUKOFcU6GmSXBWTOWQZYzD0TtNuN8pNQIrPEA1WnRTJSeDmAMui1UW70FvW%2B%2Fv\
-        4pb0lUi6F41DpdsAPIKk%2BxDb4MpHeTmHWbALQJG3eW4LehxhIo49yHeD7nXzayeTtexou\
-        8AOemYESjq%2BABqV2WUzdcL%2FuEaQvy5UG8aMVOLlrGQDgRmYwaRhxtdDYSKovvHDtipM\
-        mxvzdcYXGgSFZbwolEFjXuBHeetocEy42SB5nZ5PQwgpZwxox48xmsDbBYuy%2FPQd5klTk\
-        vvkV%2FlCFs11gBFrn%2BS5i74ZmD3Bh6T9hSZqZXpdZ59mSOCG5fMg%2FDW1XJAP4Raytx\
-        UU1LovIt%2F8gygUnWJXsdah%2BxjoJyNA%2Bumz%2B8GqBHWsQ90pNsmA54%2F6Z%2Bm6K\
-        Nlm8Pw9JmzCWyTeSgSHZP5k7uFHV5seCWmkRoUBrenoWQCKkpJ%2BVE3fPunX4455UttteG\
-        cwPLOHtmtnQh8hV6t14pbo9w4MkksaOc%2Fj%2FfgPW7WkX2%2FLg0gZ9HoVP7VIoo6Xf%2\
-        Bsd4WEUmDXCOdxp5AR2L1ibesjbur3e8NITyNEWK74UTIhEd1UO9Ew9vmbxwY6pgH97c5K0\
-        KsiSTVWzWeNmQtGUOlF1pA7mjd%2BbZpmBp4l7Xy56iCExJy7tq7SvxL%2BJlIEFSVZumdH\
-        G49HY3By5EfgLfBZyXi%2FvecE196dOXcObPzePulVaM1K7iJQNUSbfTJWJfF97subpEuy%\
-        2FarZi6d%2Fo3O3YWUxgsuNr81NceLgPl6AcctMARl9E8HIcoELp4z8%2Bkj0N%2FUFWqWY\
-        yklr6hV1y6uOui1o&X-Amz-Signature=d01a4a185cc62ae37d6d8331e92c07d1c9e2e6\
-        a77ae7a22219181c493ff6f4a3&X-Amz-SignedHeaders=host&x-amz-checksum-mode\
-        =ENABLED&x-id=GetObject"
-      expiry_time: "2025-10-09T02:26:59.919Z"
+        LOAD&X-Amz-Credential=ASIAZI2LB4666LTTKLBG%2F20251019%2Fus-west-2%2Fs3%\
+        2Faws4_request&X-Amz-Date=20251019T014607Z&X-Amz-Expires=3600&X-Amz-Sec\
+        urity-Token=IQoJb3JpZ2luX2VjECIaCXVzLXdlc3QtMiJGMEQCIC5XfbCsrN4PGtQLlyG\
+        TvNRkyEKHGfwAbs%2FOckuJSkCsAiAL5CwUUgFV%2Fc1IR3WF9pEBuJhI6Nha763Fo3kROL\
+        PfKCqIBAjK%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIM84llh\
+        CiE3UwcBGZ7KtwDhPRARSFzJiiJnbdVNX%2FnB1bnLchxqaYoE6Pp%2F%2BPhK1mWl7zAhK\
+        4OEhXMfq99tn7PQq0hKjKQXTc9rCG8Nqr7lF3o7E2CmA2M4bJpN03qT5WOGG06cmTa5yl0P\
+        0qvJNYH%2FZJm8rUs1gRde9ZMAOsMIjHwMqHtV%2Fsq07Im9o1A3ht0eTRTJeXMGJOeL%2F\
+        J9%2BViVyj9PjRLcvAw3oGU%2F9A%2FrKUqhQLN3eVAUmidbRx%2BP9xC%2Bpi93zy1iS98\
+        2Y1o5DHi%2BgUIiKgVxCT8rZTcZVtPEIH5sw6tYObtrp8PaJa%2FO8Ka6y%2BdgtnOjNHDZ\
+        VOU8WMX3XMAsJQhXgK8s5DUAFdemNc5KtPherZm5l%2F9kKg5ulDhxLTYhfI5KjOu%2F%2F\
+        l6e5oAgaBk8Q3EqPocRG9M03EMpdQuewMcHzyGIoCaq6rTdkMuILKF7w%2BPD8Vd3WOPHw8\
+        c8OpaVCUhKFjdwja1e%2FdLwSjpNTH5CT7qhHR%2BD5qsShJU0riWrBw994N6GzjoH6t5ei\
+        ANoqTszIjPmH4J5POB%2FsNycT5NLfIiTQmcqQYeXJlBMYPvcgcHJxU1PTx65RshKMd%2Bj\
+        8qvBOyl0HSK%2Fe5TYKauLQLuetNv%2BoUejbVzFsxerQskJ3WkPM%2FW%2BtNswjvvQxwY\
+        6pgG2YuCZzKn450hFMogW8xfMxFJtRNocgtJb4pCZwGzBrZj1nkqw20vJLlTg2BgMaltT1U\
+        IZZuG7a8VQAvCSbF083uZEziWwI69%2B16uWw2fWqjwdt8SrpFCuqGTXi0RLnuz0ehTfZt%\
+        2FPyQ8CPbg9SIxUWehF0C9Q5do5RYL%2FKCcbqMCPzbFEgGRXD2X%2BM0F59n2xBzBIF4c3\
+        cwO1DFCYTfZ%2Bdm%2FfB0S3&X-Amz-Signature=9415c1a6162f7c1889d96e3a13243e\
+        ae5c2efd9c9672ac43a2a22022ed0d3e04&X-Amz-SignedHeaders=host&x-amz-check\
+        sum-mode=ENABLED&x-id=GetObject"
+      expiry_time: "2025-10-19T02:46:07.964Z"
   icon: null
   parent:
     type: "database_id"
@@ -103,7 +103,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-10-08T02:33:00.000Z"
+      last_edited_time: "2025-10-18T23:13:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -180,7 +180,7 @@ https://prod-files-secure.s3.us-west-2.amazonaws.com/dc681554-1505-4cec-9a8f-844
 以下是 Github Action workflow
 
 
-```makefile
+```yaml
 name: Build and Deploy Blog
 
 on:
