@@ -1,7 +1,7 @@
 ---
 title: "Github Copilot remote-ssh 支持 Claude 系列模型"
 date: "2025-10-28T12:49:00.000Z"
-lastmod: "2025-10-28T14:11:00.000Z"
+lastmod: "2025-10-29T13:42:00.000Z"
 draft: false
 featuredImage: "https://aha.qingy.ing/api?page_id=29a2875f-4bfe-809b-bb53-f04803ed279c"
 series: []
@@ -15,7 +15,7 @@ NOTION_METADATA:
   object: "page"
   id: "29a2875f-4bfe-809b-bb53-f04803ed279c"
   created_time: "2025-10-28T12:49:00.000Z"
-  last_edited_time: "2025-10-28T14:11:00.000Z"
+  last_edited_time: "2025-10-29T13:42:00.000Z"
   created_by:
     object: "user"
     id: "1b106df3-cc7b-493e-9afa-a6a7c977ec1b"
@@ -28,28 +28,28 @@ NOTION_METADATA:
       url: "https://prod-files-secure.s3.us-west-2.amazonaws.com/dc681554-1505-4cec-9\
         a8f-844b66d5dcc8/4bb693c7-8c97-45db-9376-9389184085e9/DSCF8885_preview.\
         jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAY\
-        LOAD&X-Amz-Credential=ASIAZI2LB466U5JFEZEE%2F20251029%2Fus-west-2%2Fs3%\
-        2Faws4_request&X-Amz-Date=20251029T014341Z&X-Amz-Expires=3600&X-Amz-Sec\
-        urity-Token=IQoJb3JpZ2luX2VjEBAaCXVzLXdlc3QtMiJGMEQCIDe2cyXkUywAar3dIty\
-        EzOgAaJNmCaopidhlh6HueV4IAiAySW9Nuo4fsaWrqRnO2oJUKMc9KN6%2BPIDroQondE%2\
-        BsGCqIBAjJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMS76Ya\
-        JVyIsqEJ4rzKtwDpQSYngi6erMR8kX78QNs4%2Bg4Y%2FFyQMjmt98qnt89XeAPp0pvYNpB\
-        osqsjU49RH%2BXgZsHtic81wctpXnw44U2CnLOJC%2BdLo23HDrQrbbWTVXXwxMg25FRTV%\
-        2BEGy0FSN%2BWMcSVtVwsWuDQzttVltHU5IIv%2FhXx9g%2F9b0UzZL3P9yG6p59uuBeTn1\
-        NAhqvDSpREXVamSw%2FLwKjnB6S0ackciWmgt5J%2BqyJohf9GtzKgaYf8ykiAw0e9xZb%2\
-        BK3W76tOmTQ8dbF1B2wvoknpx8fGGK4UpnuJBIea01jh545DLnuWnga6Cgcklr3L8asM70A\
-        uScXcywlM6Ma1wt34g%2Bwhfij6o5OHWCBK1z6uTm7UT7605%2Boi%2FPN7eyFVIuCshZXn\
-        94cf%2FSSPm72%2Fg8GP%2FgOlbzg19%2Bme19BHEtahNzozjRnHnbYImSLGeksRXfS0F%2\
-        BibEhErUuePQPR62AtmeptTAZ4U0eJDktAJOj0KEhnYQM%2B%2BMWj9RDoZuhH7FgHTo%2B\
-        8aEhHeP1D61U8PYnLGKC%2BzTcl0sEDTyLKec5uKO7SQ0viV6mdumlFeKfE7LgMhzq561m1\
-        2WMVvJQ6%2BFmGXE%2FVi7JvWG7Ln14fXxVaTYF4H5oBb2Ewc0BoEy2OF3Bdcw%2Ba2FyAY\
-        6pgEgTxLoR52UlvDJf4aNnxjn91EV2%2FcKnxesshfEMytWQKTZI1iKAvG%2BPwbKZF7OGn\
-        %2BsilidXo112B2hxeMbx4zJBbVYGd%2FXizcpyK5wfpExIkMECNriG18M%2FLoQZ4ytDBG\
-        ycqvxP6WbCY%2BWUN5JDZ45KWViMtJrS%2Fa7EgYpz9v%2Bx12G%2BDImTU%2BlwtNyEBe1\
-        rHdm56Qlqn8lMVpTbu%2BOACyRb7uJbMVt&X-Amz-Signature=5fe6cebf52bfd9d59e6c\
-        17192b981eaf899508b86474ddd6d5fa31de71739cd6&X-Amz-SignedHeaders=host&x\
-        -amz-checksum-mode=ENABLED&x-id=GetObject"
-      expiry_time: "2025-10-29T02:43:41.737Z"
+        LOAD&X-Amz-Credential=ASIAZI2LB466522YHF6G%2F20251030%2Fus-west-2%2Fs3%\
+        2Faws4_request&X-Amz-Date=20251030T014250Z&X-Amz-Expires=3600&X-Amz-Sec\
+        urity-Token=IQoJb3JpZ2luX2VjECkaCXVzLXdlc3QtMiJGMEQCIERj1yMyRBpvyW%2Fry\
+        H6QEzXZmqTeN5eFG4%2Fv17sd47S9AiBDTQe6pUgCHJ192d%2BJL4GCqE5t%2BZM9idpK%2\
+        Brngk1fAySqIBAji%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSI\
+        MFr3MRz3KflJu0ZlcKtwDkbWFSPTted352DUymRQN3WMzf4udJCNI5PuY9OuU0ckWstJuLV\
+        Sj04HWGOe7LRoeTkpU77k5IYfcOkggBoGlBNczyjHa%2FiVr9Dfl2GWo%2BL%2BGDZQPDI%\
+        2BjCfWothWy8Jivnmrbz2LgSaxm9A7AQaDvpdP2FJfoiDZIMZYj%2FcCzgFpUm99rjsk4%2\
+        FPQ6ncY%2FQywX8zEFqNyAd9HRe3KFHoCOODPkJ%2BZHv5Epd1SZVYghaewZbXgzsE8cmFa\
+        qNSjCn0pQ8FPdEqxLh1wKxRCUaUq1IKfhLGXD9EJYeVN910jTx%2BrtZKH%2BwHJxvn4287\
+        id%2FRMRsBVtxOAM%2BVWpL5vASEvhh2hvT2XSxSeM9L4JWEKmvY73Pxh%2Fhiw3Ltg3H1x\
+        pqdTa%2BaoevtdCvUIGB%2BD1rXuI46PgKVGg5SRmWuAgurmolUxXsrIwojFVDBvJ%2F9f2\
+        VogQ3zjGMretFcWIDoxfESVugTPWTQu93pUp9Kb5MrKjH7l6YZQ6SxWyGZvJvcRPpcv3g7i\
+        7FTW3qZjitOpGWKMMi11I%2Bjq0jLwQsAGJMU8QjW82KduOj95rgQa6QpAADFsazupbuY3v\
+        yDem820Xwbj25mI7x3EcOvLwkdsrics2ZlJ4A1LYbM%2BqewBkPr0wwfaKyAY6pgEAqkJXl\
+        6llUxt2%2B7cP7X0qoZmwbwcUge9KPY2T5e0UIjanzSB95z0wQZ08t%2FcVouZ0N8Ib5ljg\
+        HnaA48z%2BGSyW301lbZ4dlEHYXSk7XTyTOLUllBJoWMiOG60Ri66Wod74H4AjZsfHmWbr6\
+        YBJzX5T8Ok1AQlaGe1cNwMk4luNgoNzR56VBO78ZOx%2BUkt%2BK45gI8%2FuxrINP2XCGY\
+        HI4%2BGT55hQ%2FLsN&X-Amz-Signature=8207d1e6e0e41e22c8bc38768d235d799d6f\
+        157f7860522607adcea0500d0a8b&X-Amz-SignedHeaders=host&x-amz-checksum-mo\
+        de=ENABLED&x-id=GetObject"
+      expiry_time: "2025-10-30T02:42:50.836Z"
   icon: null
   parent:
     type: "database_id"
@@ -99,7 +99,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-10-28T14:11:00.000Z"
+      last_edited_time: "2025-10-29T13:42:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -133,7 +133,7 @@ MANAGED_BY_NOTION_HUGO: true
 # 背景
 
 
-最近这段时间，由于绝大部分时间开发过程中都会用到 GPU 卡且对配置也有较高的要求，所以索性就把开发环境搬到了公司的云产品上。开发方式：在本地的 Mac-mini 上通过 VSCode remote-ssh 连接到机器上进行开发。但是遇到了一个奇怪的问题，Github copilot 中 Claude 系列模型消失了。而同样的方式连接到自己的 4090 开发机 Claude 模型没有消失。分析了下，觉得可能是网络的出口有关系，4090 开发机在公司环境，默认走香港线路，而公司的云机，默认走国内线路。不经联想到最近 Anthropic 对 Claude 模型提出的新限制，不禁挺佩服 Anthropic 对规则的坚持🤦。
+最近这段时间，由于开发过程中都会用到 GPU 卡且对配置也有较高的要求，自己的开发机已经无法满足需求，所以索性就把开发环境搬到了公司的云产品上。开发方式：在本地的 Mac-mini 上通过 VSCode remote-ssh 连接到机器上进行开发。但是遇到了一个奇怪的问题，Github copilot 中 Claude 系列模型消失了。而同样的方式连接到自己的 4090 开发机没遇到这个问题。分析了下，觉得可能是网络的出口有关系，4090 开发机在公司环境，默认走香港线路，而公司的云机，默认走国内线路。不经联想到最近 Anthropic 对 Claude 模型提出的新限制，不禁挺佩服 Anthropic 对规则的坚持🤦。
 
 
 # 原因分析
