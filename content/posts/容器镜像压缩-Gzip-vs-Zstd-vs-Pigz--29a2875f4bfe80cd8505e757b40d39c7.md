@@ -1,8 +1,9 @@
 ---
 title: "容器镜像压缩 Gzip vs Zstd vs Pigz "
 date: "2025-10-28T09:31:00.000Z"
-lastmod: "2025-10-29T06:15:00.000Z"
+lastmod: "2025-11-02T10:58:00.000Z"
 draft: true
+featuredImage: "https://www.notion.so/images/page-cover/webb2.jpg"
 series: []
 authors:
   - "Hongbo Mo"
@@ -12,14 +13,17 @@ NOTION_METADATA:
   object: "page"
   id: "29a2875f-4bfe-80cd-8505-e757b40d39c7"
   created_time: "2025-10-28T09:31:00.000Z"
-  last_edited_time: "2025-10-29T06:15:00.000Z"
+  last_edited_time: "2025-11-02T10:58:00.000Z"
   created_by:
     object: "user"
     id: "1b106df3-cc7b-493e-9afa-a6a7c977ec1b"
   last_edited_by:
     object: "user"
     id: "1b106df3-cc7b-493e-9afa-a6a7c977ec1b"
-  cover: null
+  cover:
+    type: "external"
+    external:
+      url: "https://www.notion.so/images/page-cover/webb2.jpg"
   icon: null
   parent:
     type: "database_id"
@@ -63,7 +67,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-10-29T06:15:00.000Z"
+      last_edited_time: "2025-11-02T10:58:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
