@@ -1,7 +1,7 @@
 ---
 title: "DeepSeek OCR 实操和论文学习"
 date: "2025-11-08T04:25:00.000Z"
-lastmod: "2025-11-09T08:06:00.000Z"
+lastmod: "2025-11-11T02:06:00.000Z"
 draft: false
 featuredImage: "https://aha.qingy.ing/api?page_id=2a52875f-4bfe-80a1-a7f1-f4a55ca7e3be"
 series: []
@@ -15,7 +15,7 @@ NOTION_METADATA:
   object: "page"
   id: "2a52875f-4bfe-80a1-a7f1-f4a55ca7e3be"
   created_time: "2025-11-08T04:25:00.000Z"
-  last_edited_time: "2025-11-09T08:06:00.000Z"
+  last_edited_time: "2025-11-11T02:06:00.000Z"
   created_by:
     object: "user"
     id: "1b106df3-cc7b-493e-9afa-a6a7c977ec1b"
@@ -28,28 +28,27 @@ NOTION_METADATA:
       url: "https://prod-files-secure.s3.us-west-2.amazonaws.com/dc681554-1505-4cec-9\
         a8f-844b66d5dcc8/677dadc0-97a7-4bcc-882a-6a6163144f74/DSCF8235_preview.\
         jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAY\
-        LOAD&X-Amz-Credential=ASIAZI2LB466ZSG2F5K3%2F20251110%2Fus-west-2%2Fs3%\
-        2Faws4_request&X-Amz-Date=20251110T014547Z&X-Amz-Expires=3600&X-Amz-Sec\
-        urity-Token=IQoJb3JpZ2luX2VjEC8aCXVzLXdlc3QtMiJHMEUCIQD7T89xUJgKsGvHwRM\
-        jKCBlOdAPtXGVlAVjjDlRW9BlhAIgDcgEZsiGN1Miiku5nFZxg1NktXHGYVZfx%2F%2F31e\
-        gVhqkqiAQI%2BP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDOB\
-        e%2FDCN6%2FGHjXOn0yrcA4IRRnHbHOQh3lPuO5droHyvQsNqwqiP6FOSPRYApzdAa0Bv1a\
-        NGKM9YwKBDukaV4hgmbUjEYP%2FEJMkQ6GAC9jv%2BXniEiewZPvpkdzRrG8uKUrRg5CU82\
-        Vjsau66unhkDKdrJVdaDFMg7pus0rW7Ikm12KHZqCKtohmZu40pr7okfPNrg25nay67rVPq\
-        B3HefrfR%2FvVPevpRzshAgkKm1Khjes8TfdE7AYtISQ47GSvDckjlhSxNFpLypxkVJnJ4O\
-        TlicvBGRNXaBqAvH8o5FIuTRrueNXbKG3kaZqATYSdm5C6PQtMS8YfKtqY9oraxZOSjIT6m\
-        Wo64Wz17OoAvmJSxp1pJ1CZcLdilGx6fEuC0m2AFdPZpJJQ7MqKIYUfNttCnWyjQF%2BRFC\
-        Iq%2BoQFVT6b%2B9fA9o3yrEPRLsoShUr2r1bFm94nd2tjGXdBzUCHqNNX54RkEY7BuUaPC\
-        5kq2V1rzVlL99DjLbyZO3%2BjMvit9AjlMUIYzBdDxU%2FcjUGleeREn3Nw4TkdhHYYN9nP\
-        UJRFX75XIfgZfPRW%2F3QJbkM3LtrgrQf6ZI3Fzn63EADFb1JgWuCbyOEYM2NSZsocniE0f\
-        QpbzAItvkHp2JTEdI4QNErRu7n3BsFvFl0lpMIy1xMgGOqUBy8cmyy8V4mV3%2FfPkQUHfk\
-        Milm32gRwNvidILtyRPz%2BhackwZgSO3LmgsA%2BAml9R2VJ%2FIybXtzlQXoCk3PzFE2B\
-        9S2tt2MR0vtGdZ4Qf%2Bvn43RPDg3KuII%2Fze3r5YJYaYd9D18S9C23NqPajFKmFMgHZta\
-        ox%2BODC7DWySh0N0ejNvJenXHZnwVf236S4l4ZeTOi4%2B%2FLBLZXSflvABxvo1eSdPxW\
-        vR&X-Amz-Signature=f9ab96fbdb7b007e2e87ebc03c41e6522b807c153345d4fd1fef\
-        3cbc2bf02131&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=\
-        GetObject"
-      expiry_time: "2025-11-10T02:45:47.126Z"
+        LOAD&X-Amz-Credential=ASIAZI2LB466SBZ6MCEH%2F20251112%2Fus-west-2%2Fs3%\
+        2Faws4_request&X-Amz-Date=20251112T014154Z&X-Amz-Expires=3600&X-Amz-Sec\
+        urity-Token=IQoJb3JpZ2luX2VjEGIaCXVzLXdlc3QtMiJGMEQCIETfr2IEx2kPW9b05QC\
+        %2F2ruCXG3RsDRMBaeoTCeMrlflAiAY%2FcxxnOWuxrhp53sRNUwbCUCqRw4Vs7jwsaau9z\
+        4Rqir%2FAwgqEAAaDDYzNzQyMzE4MzgwNSIMfpuz3wBJqcKTQU7BKtwD8UmvEMb1B9ztTcz\
+        6UtISvD%2FIKv2nSgsSY4OS%2B9oJIiA%2F4VygODmIyjUeWvRe4ThcWp6hTjGZHcf0Psnb\
+        wknQSgWuI6kgbF8w0bhQ%2FwabczUfO7t1cgmear%2BmU3ZdxJXIyFHR68BFU6mHSnwyB%2\
+        Ffd8rF52hPF6YYV9eMAguhSgqCe64pBJLHJ5Cc%2Fksq3WhpQmt9uXdXtnsz0x5WNknMI76\
+        ATBjdpY2EjuNeT0%2BLkf8t6F%2BXl6HSUGV0X5XSaoSlT8atPZITeqeG32WcP3PIHY7s6O\
+        %2F7eVhFIbKx2fCLgaXzn4aqMzx9Z29BnrydOhPfJZ11rEpSOs7yXwa40CdHTXknG9Ob3JF\
+        WxsaK%2F2fRmIh2SrT3jIf7jrbr45eHv80gzSzwEY48Lbk2DyH1DdQeSbgFIOY%2FayZ%2F\
+        d0a7cSPpXGWpum1SF%2FBArIDTcW6txa0izkRgXrFMbNViL1%2FU9cWWDScpRD7ZTdX0QAj\
+        kN5AVq1ZUplDsJkFG%2BchLKB4%2Bte5S5ba56EJ%2B%2FBzYj975gzPI2U0k3V1EqP9CUv\
+        1crZT3sA3tyuW9eW7fpMLeMzDHhcuvXYRe04EsgL6FiXKp1P9%2Fh9Q%2F4EkGpvejXhSu2\
+        K0zz2bqT%2FrSU%2FU4OJwADPW4wr8HPyAY6pgFku0ItTqLVZH7otZvKTGGeT8nnYO3jiVV\
+        l2bBohz7BCB2T5Jpuqb%2BzHXzisvsx6nJ%2BMFA1py4SJMLqZisZ0jQV4Ud6jMZT8MqgPU\
+        vjPB5x%2FTh0CPa9iX91xe0c0a3xcCToJkbkm6Qvo6h%2BuIncdn8assnSGjmwJBM46Jf8l\
+        42uLhYVjgr66QaXzqE7vEy6G5xryJsgnDPeni1jyCznhflsO6uRepkV&X-Amz-Signature\
+        =2e7f2118e6adb67567e7e48fce0c36cd870e27a64289dfed69732e295dca0dea&X-Amz\
+        -SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+      expiry_time: "2025-11-12T02:41:54.678Z"
   icon: null
   parent:
     type: "database_id"
@@ -99,7 +98,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-11-09T08:06:00.000Z"
+      last_edited_time: "2025-11-11T02:06:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -200,7 +199,10 @@ self.projector = MlpProjector(Dict(
 ### Q3. Vision token 和 Prompt 如何作为 DeepSeek-3B 的 input？
 
 
-首先 Vision tokens 和 Prompt 对应的 Embedding 都是 1280 维度的，一个是视觉的 Embedding，另一个是文本的 Embedding。由于使用 CLIP 模型，会让视觉 Embedding 的分布与文本 Embedding 的分布尽可能对应。而对于 DeepSeek-3B 来说，输入的是语义，而不关心是视觉的 Embedding 还是文本的 Embedding。
+首先 Vision tokens 和 Prompt 对应的 Embedding 都是 1280 维度的，一个是视觉的 Embedding，另一个是文本的 Embedding。由于使用 CLIP 模型，会让视觉 Embedding 的分布与文本 Embedding 的分布尽可能对应。而对于 DeepSeek-3B 来说，输入的是语义，而不关心是视觉的 Embedding 还是文本的 Embedding。这个在 23 年的论文 NExT-GPT 首次被提出，如下所示：
+
+
+![](https://aha.qingy.ing/api?block_id=2a82875f-4bfe-8073-ba05-f95b835d03fc)
 
 
 # 几点畅想
@@ -214,4 +216,5 @@ self.projector = MlpProjector(Dict(
 
 1. 
 1. [https://github.com/deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+1. 
 1. 
